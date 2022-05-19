@@ -1,6 +1,6 @@
 {
     "name": "@nfjs/migrate",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Database migration tool",
     "license": "MIT",
     "type": "module",

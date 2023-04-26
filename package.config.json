@@ -2,7 +2,7 @@
   "@nfjs/migrate": {
     "doMigrate": {
       "type": "Boolean",
-      "description": "Запускать процесса обновлениея бд при старте приложения",
+      "description": "Запускать процесса обновления бд при старте приложения",
       "default": false
     },
     "doSilent": {
@@ -23,7 +23,7 @@
     },
     "defaultDoUnsafeDrop": {
       "type": "Boolean",
-      "description": "Выполнять блок unsafedrop(удаление таблиц и колонок) из сравнения таблиц или нет",
+      "description": "Выполнять блок unsafedrop (удаление таблиц и колонок) из сравнения таблиц или нет",
       "default": false
     },
     "defaultDoInit": {
